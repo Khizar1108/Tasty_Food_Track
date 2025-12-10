@@ -10,12 +10,18 @@ This project demonstrates the integration of frontend and backend technologies t
 It includes functionalities like real-time data storage, CRUD operations and an interactive UI built for user convenience.
 
 ⭐ Features :
-🍕 Add and manage menu items dynamically
-🛒 Add food items to cart
-🧍‍♂️ User input forms for name, phone, and delivery address
-🧾 Database schema for restaurants, users, and orders
-⚙️ CRUD operations (Create, Read, Update, Delete) using SQL
+🍕 Add and manage menu items dynamically     
+
+🛒 Add food items to cart                     
+
+🧍‍♂️ User input forms for name, phone, and delivery address        
+
+🧾 Database schema for restaurants, users, and orders 
+
+⚙️ CRUD operations (Create, Read, Update, Delete) using SQL  
+
 💻 Responsive design with HTML and CSS
+
 🔄 Real-time data updates between frontend and backend
 
 🛠️ Tech Stack :

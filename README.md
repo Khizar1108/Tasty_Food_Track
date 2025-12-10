@@ -10,6 +10,7 @@ This project demonstrates the integration of frontend and backend technologies t
 It includes functionalities like real-time data storage, CRUD operations and an interactive UI built for user convenience.
 
 ⭐ Features :
+
 🍕 Add and manage menu items dynamically     
 
 🛒 Add food items to cart                     
@@ -25,6 +26,7 @@ It includes functionalities like real-time data storage, CRUD operations and an 
 🔄 Real-time data updates between frontend and backend
 
 🛠️ Tech Stack :
+
 | Category | Tools Used            |
 | -------- | --------------------- |
 | Frontend | HTML, CSS, JavaScript |
@@ -33,6 +35,7 @@ It includes functionalities like real-time data storage, CRUD operations and an 
 | IDE      | Visual Studio Code    |
 
 🧠 Database Design
+
 The application uses a relational database schema consisting of:
 Customer Table – Stores customer details (name, phone, address)
 Categories Table – Contains food categories (Veg, Non-Veg, Desserts, etc.)
@@ -41,18 +44,23 @@ Item Table: Contains details of available dishes
 Order_items: Links each order to specific dishes and their quantities
 
 ⚙️ How to Run the Project
+
 1️⃣ Navigate to Project Folder
 
 Tasty-Food-Track-App
+
 2️⃣ Install dependencies
 
 pip install flask mysql-connector-python
+
 3️⃣Run the Flask app [ Terminal --> New Terminal ]
 
 python app.py
+
 4️⃣ Open your browser
 
 Running on http://127.0.0.1:5000
+
 📸 Project Preview Screenshot of app UI here:
 ![WhatsApp Image 2025-12-10 at 11 48 13_91cf9210](https://github.com/user-attachments/assets/a762a38c-a28f-4718-9286-89e930159414)
 ![WhatsApp Image 2025-12-10 at 11 48 59_fb90fe05](https://github.com/user-attachments/assets/ab92abaa-1bda-4a74-9cbd-a410fbea756d)
